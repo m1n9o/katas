@@ -6,7 +6,7 @@ authors = ["Xiaoming Gao <xiaoming.gao@rea-group.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-coverage = "^6.3.2"
+coverage = "^7.0.0"
 immute = "^0.3.3"
 
 [tool.poetry.dev-dependencies]
